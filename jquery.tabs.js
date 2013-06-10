@@ -1,3 +1,4 @@
+// create 2010
 (function($){
 	
 	//	$.fn.myTabs.defaults = {
